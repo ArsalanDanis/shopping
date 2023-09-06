@@ -1,0 +1,63 @@
+.tab {
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    width: 100%;
+    border-left: 30px solid gold;
+    border-bottom: 3px solid rgb(4, 95, 62);
+    /* border-top: 25px solid rgb(5, 158, 107); */
+    background-color: #ffffff;
+    /* border-radius: px; */
+    /* box-shadow: 4px 3px 3px black; */
+
+    
+}
+.S1, .S2, .S3, .S4 {
+    flex-basis: 22%;
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+}
+.S1 {
+    padding: 10px;
+}
+.LOG1 {
+    position: relative;
+    top: 16px;
+}
+span {
+    color: red;
+}
+.icon {
+    position: relative;
+    top: -6px;
+   font-size: 13px;
+}
+.S2, .S3 {
+     padding: 35px;
+}
+.S2 ul {
+    list-style-type: none;
+}
+.S2 ul li {
+    text-decoration:none ;
+    padding: 5px;
+}
+.S3 ul {
+    list-style-type: none;
+}
+.S3 ul li {
+    text-decoration:none ;
+        padding: 5px; 
+    }
+.S2 ul li a {
+    text-decoration: none;
+    color: #ca0000;
+}
+
+.S3 ul li a {
+    text-decoration: none;
+    color: #ca0000;
+}
+.S4 {
+    padding: 2px 32px;
+}

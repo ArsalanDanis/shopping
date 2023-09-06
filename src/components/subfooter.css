@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+.SEC {
+    display: flex;
+    margin:20px 0 0 0;
+    /* background-image: url("bc.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-left: 30px solid gold;
+    background-color: rgb(0, 0, 0);
+}
+.SEC1 {
+    width: 500px;
+    height: 150px;
+    /* border: 1px solid red; */
+    padding: 20px 60px;
+    color: white;
+}
+.SEC1 p {
+    color: aqua;
+}
+span {
+    color: rgb(255, 255, 25);
+}
+.SEC2 {
+    width: 700px;
+    height: 150px;
+    /* border: 1px solid red; */
+    padding: 54px 115px;
+}
+#EMAIL {
+
+    width: 350px;
+    height: 51px;
+    border-radius: 25px 0px 0px 25px;
+    /* border: 1px solid white; */
+    text-indent: 20px;
+    outline: none;
+}
+.BUTTON {
+    width: 115px;
+    height: 51px;
+     border: 1px solid black;
+     border-radius: 0px 25px 25px 0px;
+    border-radius: 0px 25px 25px 0px;
+     background:#2bee92;
+    padding: 9px 6px 25px 18px;
+    border: 1px solid #2bee92;
+}
+.BUTTON a {
+    text-decoration:none;
+    font-size: 20px;
+     color: #200;
+
+}
+ .SEC3 {
+        display: flex;
+} 

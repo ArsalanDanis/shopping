@@ -1,0 +1,49 @@
+#App {
+    text-align: center;
+    border: #007bff;
+    background-color: #154938;
+    margin-top: 30px;
+    padding: 50px 20px;
+    border-radius: 10px;
+   
+  }
+  .wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #dde4f8;
+    overflow: hidden;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    margin-top: 10px;
+  }
+  
+  #loginInput {
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #btn{
+    margin-top: 10px;
+    background-color: #030f1b;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  p {
+    color: #a4ccf7;
+    cursor: pointer;
+  }
